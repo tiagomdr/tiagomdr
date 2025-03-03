@@ -16,4 +16,4 @@ Eu sou Tiago Medeiros, apaixonado por Tecnologia
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo-React">
  <br>
 <h4>💬 Vamos trocar ideias? Me chame para falar sobre</h4>
-<a href="https://w.app/cmu1gj" target="_blank" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://w.app/sblhlg" target="_blank" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
