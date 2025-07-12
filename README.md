@@ -24,8 +24,9 @@
 ###
 
 <div align="center">
- ![](https://nirzak-streak-stats.vercel.app/?user=TiagoMdr&theme=dark&hide_border=false)<br/>
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+![](https://github-readme-stats.vercel.app/api?username=TiagoMdr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TiagoMdr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMdr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ###
