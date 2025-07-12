@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Olá, sou Tiago Medeiros, um profissional em transição de carreira da área Militar para o campo da Programação. Atuo como Desenvolvedor Front-End, com experiência prática em HTML, CSS e JavaScript. Sou uma pessoa detalhista, focada e apaixonada por resolver problemas de forma eficiente e criativa. Minha experiência no setor militar desenvolveu minha disciplina, organização e capacidade de trabalhar bem em equipe, habilidades que aplico diretamente na minha nova jornada como programador. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Estou aberto a novas oportunidades que me permitam crescer e contribuir para projetos desafiadores. Vamos conectar e conversar sobre como posso agregar valor à sua equipe!
 ###
 <div align="center">
