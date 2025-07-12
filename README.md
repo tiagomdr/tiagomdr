@@ -30,7 +30,7 @@ Olá, sou Tiago Medeiros, um profissional em transição de carreira da área Mi
 
 <div align="center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=tiagomdr&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+ <a> ![](https://github-profile-trophy.vercel.app/?username=tiagomdr&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)</a>
 
 </div>
 
