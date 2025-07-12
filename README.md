@@ -2,15 +2,15 @@
 Olá, sou Tiago Medeiros, um profissional em transição de carreira da área Militar para o campo da Programação. Atuo como Desenvolvedor Front-End, com experiência prática em HTML, CSS e JavaScript. Sou uma pessoa detalhista, focada e apaixonada por resolver problemas de forma eficiente e criativa. Minha experiência no setor militar desenvolveu minha disciplina, organização e capacidade de trabalhar bem em equipe, habilidades que aplico diretamente na minha nova jornada como programador. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Estou aberto a novas oportunidades que me permitam crescer e contribuir para projetos desafiadores. Vamos conectar e conversar sobre como posso agregar valor à sua equipe!
 ###
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
 </div>
 
@@ -30,7 +30,7 @@ Olá, sou Tiago Medeiros, um profissional em transição de carreira da área Mi
 
 <div align="center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=tiagomdr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=tiagomdr&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
