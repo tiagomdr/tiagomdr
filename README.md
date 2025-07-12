@@ -22,11 +22,14 @@ Olá, sou Tiago Medeiros, um profissional em transição de carreira da área Mi
   <a href="https://www.linkedin.com/in/tiagomdr/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 </div>
 
-# 📊 GitHub Stats:
+
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=TiagoMdr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TiagoMdr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMdr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
