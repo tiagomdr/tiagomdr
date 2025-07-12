@@ -15,6 +15,7 @@ Olá, sou Tiago Medeiros, um profissional em transição de carreira da área Mi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
   <img width="12" />
 </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TiagoMdr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TiagoMdr&theme=dark&hide_border=false)<br/>
