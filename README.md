@@ -2,8 +2,19 @@
 Olá, sou Tiago Medeiros, um profissional em transição de carreira da área Militar para o campo da Programação. Atuo como Desenvolvedor Front-End, com experiência prática em HTML, CSS e JavaScript. Sou uma pessoa detalhista, focada e apaixonada por resolver problemas de forma eficiente e criativa. Minha experiência no setor militar desenvolveu minha disciplina, organização e capacidade de trabalhar bem em equipe, habilidades que aplico diretamente na minha nova jornada como programador. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Estou aberto a novas oportunidades que me permitam crescer e contribuir para projetos desafiadores. Vamos conectar e conversar sobre como posso agregar valor à sua equipe!
 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 💻 Tecnologia:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="12" />
+</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TiagoMdr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TiagoMdr&theme=dark&hide_border=false)<br/>
