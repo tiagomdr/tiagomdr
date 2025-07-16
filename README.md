@@ -1,6 +1,7 @@
  <h2>💫 Sobre mim:</h2>
 Meu nome é Tiago Medeiros Da Rosa, sou apaixonado por tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Também faço parte do curso de Desenvolvedor Full Stack no <a href="http://devclub.com/">DevClub</a>, onde venho aprimorando minhas habilidades em desenvolvimento web e mobile. Estou sempre em busca de novos desafios e oportunidades para aprender e evoluir na área da tecnologia. Estou sempre aberto a colaborar em projetos criativos e desafiadores. Sinta-se à vontade para entrar em contato! 
 <br>
+
 <div align="center">
   <a href="https://www.instagram.com/tiaguinhomdr/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
  <a href="https://discord.gg/tZ9gSCsbvs" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
