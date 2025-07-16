@@ -1,5 +1,13 @@
 # <h1>💫 Sobre mim:</h1>
-Olá, sou Tiago Medeiros, um profissional em transição de carreira da área Militar para o campo da Programação. Atuo como Desenvolvedor Front-End, com experiência prática em HTML, CSS e JavaScript. Sou uma pessoa detalhista, focada e apaixonada por resolver problemas de forma eficiente e criativa. Minha experiência no setor militar desenvolveu minha disciplina, organização e capacidade de trabalhar bem em equipe, habilidades que aplico diretamente na minha nova jornada como programador. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Estou aberto a novas oportunidades que me permitam crescer e contribuir para projetos desafiadores. Vamos conectar e conversar sobre como posso agregar valor à sua equipe!
+Meu nome é Tiago Medeiros Da Rosa, sou apaixonado por tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Também faço parte do curso de Desenvolvedor Full Stack no <a href="http://devclub.com/">DevClub</a>, onde venho aprimorando minhas habilidades em desenvolvimento web e mobile. Estou sempre em busca de novos desafios e oportunidades para aprender e evoluir na área da tecnologia. Estou sempre aberto a colaborar em projetos criativos e desafiadores. Sinta-se à vontade para entrar em contato! 
+
+<div align="center">
+ <a href="https://www.youtube.com/@tiagomedeiros2750" target="_blank"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> </a>
+  <a href="https://www.instagram.com/tiaguinhomdr/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
+ <a href="https://discord.gg/tZ9gSCsbvs" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
+  <a href="https://www.linkedin.com/in/tiagomdr/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+</div>
+
 ###
 
 <h2>⚡ Tecnologias</h2>
@@ -17,12 +25,6 @@ Olá, sou Tiago Medeiros, um profissional em transição de carreira da área Mi
 </div>
 
 #
-<div align="center">
- <a href="https://www.youtube.com/@tiagomedeiros2750" target="_blank"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> </a>
-  <a href="https://www.instagram.com/tiaguinhomdr/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
- <a href="https://discord.gg/tZ9gSCsbvs" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
-  <a href="https://www.linkedin.com/in/tiagomdr/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
-</div>
 
 ###
 <div align="center">
