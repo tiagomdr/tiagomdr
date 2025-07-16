@@ -1,5 +1,6 @@
  <h2>💫 Sobre mim:</h2>
-Meu nome é Tiago Medeiros Da Rosa, sou apaixonado por tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Também faço parte do curso de Desenvolvedor Full Stack no <a href="http://devclub.com/">DevClub</a>, onde venho aprimorando minhas habilidades em desenvolvimento web e mobile. Estou sempre em busca de novos desafios e oportunidades para aprender e evoluir na área da tecnologia. Estou sempre aberto a colaborar em projetos criativos e desafiadores. Sinta-se à vontade para entrar em contato! 
+Meu nome é Tiago Medeiros Da Rosa, sou apaixonado por tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Também faço parte do curso de Desenvolvedor Full Stack no <a href="http://devclub.com/">DevClub</a>, onde venho aprimorando minhas habilidades em desenvolvimento web e mobile. Estou sempre em busca de novos desafios e oportunidades para aprender e evoluir na área da tecnologia. Estou sempre aberto a colaborar em projetos criativos e desafiadores. Sinta-se à vontade para 
+entrar em contato! <br>
 <br>
 
 <div align="center">
