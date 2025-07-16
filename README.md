@@ -23,6 +23,9 @@ Meu nome é Tiago Medeiros Da Rosa, sou apaixonado por tecnologia e atualmente e
   <img width="12" />
 </div>
 
+#
+
+###
 <div align="center">
   
 ![](https://nirzak-streak-stats.vercel.app/?user=TiagoMdr&theme=dark&hide_border=false)<br/>
