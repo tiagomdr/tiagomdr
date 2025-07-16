@@ -3,7 +3,6 @@ Olá, sou Tiago Medeiros, um profissional em transição de carreira da área Mi
 ###
 
 <h2>⚡ Tecnologias</h2>
-#
 
 ###
 <div align="center">
