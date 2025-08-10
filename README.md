@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Tiago Medeiros Da Rosa
+# 👋 Olá, eu sou Tiago Medeiros 
 
 💻 **Desenvolvedor Full Stack em formação** | 🚀 Apaixonado por tecnologia e inovação  
 
