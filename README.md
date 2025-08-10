@@ -39,6 +39,7 @@ Sou apaixonado por criar soluções digitais modernas, eficientes e intuitivas. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagomdr/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tiagomdr)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiago335tm@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfólio-4CAF50?style=for-the-badge&logo=web&logoColor=white)](https://tiagomedeirosmdr.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAAacHRM0LXWaK0HsaNG4HkekcFolSN95h1z2zoDB-CSy5weXcZGjaxXFJwyfAyw_aem_4721wXIK9_eA-3w21dZC2Q#projetos)
 
 </div>
 
