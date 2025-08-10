@@ -1,46 +1,54 @@
- <h2>💫 Sobre mim:</h2>
-Meu nome é Tiago Medeiros Da Rosa, sou apaixonado por tecnologia e atualmente faço parte do curso de Desenvolvedor Full Stack no DevClub, onde venho aprimorando minhas habilidades em desenvolvimento web e mobile. Estou sempre em busca de novos desafios e oportunidades para aprender e evoluir na área da tecnologia. Estou sempre aberto a colaborar em projetos criativos e desafiadores. Sinta-se à vontade para 
-entrar em contato! <br>
-<br>
+# 👋 Olá, eu sou Tiago Medeiros Da Rosa
 
-<div align="center">
-  <a href="https://www.instagram.com/tiaguinhomdr/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
- <a href="https://discord.gg/tZ9gSCsbvs" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
-  <a href="https://www.linkedin.com/in/tiagomdr/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
-</div>
+💻 **Desenvolvedor Full Stack em formação** | 🚀 Apaixonado por tecnologia e inovação  
 
-###
-
-<h2>⚡ Tecnologias</h2>
-
-###
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-</div>
-
-#
-
-###
-<div align="center">
-  
-![](https://nirzak-streak-stats.vercel.app/?user=TiagoMdr&theme=dark&hide_border=false)<br/>
-</div>
-
-<div align="center">
-  
- <a> ![](https://github-profile-trophy.vercel.app/?username=tiagomdr&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)</a>
-
-</div>
-
+Sou apaixonado por criar soluções digitais modernas, eficientes e intuitivas. Atualmente, estou cursando **Desenvolvedor Full Stack** no **DevClub**, aprimorando minhas habilidades em **desenvolvimento web e mobile**. Meu foco é desenvolver aplicações que unam **design funcional**, **performance** e **excelente experiência do usuário**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TiagoMdr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="left">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Sobre mim
+
+- 📚 Atualmente estudando **React.js**, **integração com APIs** e **boas práticas de desenvolvimento**
+- 🌐 Crio interfaces **responsivas** e **acessíveis** com foco no usuário
+- 🧠 Sempre em busca de **novos desafios** para aprender e evoluir
+- 🤝 Aberto a **colaborações** e **projetos freelance**
+- 🎯 Objetivo: Desenvolver aplicações que **unam performance e usabilidade**
+
+---
+
+## 📫 Onde me encontrar
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagomdr/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tiagomdr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiago335tm@gmail.com)
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="left">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagomdr&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomdr&layout=compact&theme=tokyonight)
+
+</div>
