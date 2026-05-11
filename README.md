@@ -45,11 +45,3 @@ Sou apaixonado por criar soluções digitais modernas, eficientes e intuitivas. 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="left">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagomdr&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomdr&layout=compact&theme=tokyonight)
-
-</div>
